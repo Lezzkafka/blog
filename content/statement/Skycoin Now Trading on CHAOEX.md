@@ -10,10 +10,18 @@ categories = [ "Statement", ]
     length = 188984
 +++
 
-Skyfleet, we have some great news for you today! We are making good on our promise to the community of offering more exchange options and are back with a new one today!
 
-We are very excited to announce that Skycoin will now be trading on CHAOEX!
+Skyfleet成员们，今天我们有一个重要的消息与你们分享！我们正逐步兑现对Skycoin社区的承诺：提供更多的交易平台选择。今天就新增一个交易所！
 
-[CHAOEX](https://www.chaoex.com/home?local=en-US) is a newer Hong Kong based exchange, complete with a mobile app and many great features! We are happy to be listed there, increasing Skycoin's exposure in the east!
+ 
 
-As always, stay tuned for more exciting announcements and new exchanges to come!
+我们怀着激动的心情，在此宣布：Skycoin现已在CHAOEX上币，可以进行交易！
+
+ 
+
+[CHAOEX](https://www.chaoex.com/home?local=en-US) 是一个更年轻的香港交易所，同时配有手机端应用和许多很棒的功能！Skycoin能够在CHAOEX上币，增加其在东方的曝光率，我们感到十分开心！
+
+ 
+
+敬请期待更多公告，关注更多新交易所消息！
+
